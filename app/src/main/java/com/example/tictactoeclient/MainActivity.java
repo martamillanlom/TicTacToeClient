@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-    }
+    } 
 
     public void updateUI(byte header){
         switch (header){
